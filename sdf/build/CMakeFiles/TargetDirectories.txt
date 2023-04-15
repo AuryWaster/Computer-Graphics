@@ -1,0 +1,3 @@
+/home/aurelian/Рабочий стол/sdf_mg/build/CMakeFiles/sdf.dir
+/home/aurelian/Рабочий стол/sdf_mg/build/CMakeFiles/edit_cache.dir
+/home/aurelian/Рабочий стол/sdf_mg/build/CMakeFiles/rebuild_cache.dir
